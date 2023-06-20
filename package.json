@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-course",
+  "version": "1.0.0",
+  "description": "A study project to learn at https://curso.dev with @filipedeschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Deschamps",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
